@@ -28,3 +28,7 @@ https://hub.docker.com/r/vuhien238183/backend
 https://hub.docker.com/r/vuhien238183/frontend
 ## Link Render App
 https://web-238183.onrender.com
+## Link Render API
+https://api-238183.onrender.com/api/employees
+## Link MongoDB Atlas
+mongodb+srv://nghien2333_db_user:MLVvIP1tgLHkmefw@cluster0.ctym4ec.mongodb.net
