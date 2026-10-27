@@ -20,3 +20,11 @@ cd frontend
 npm install
 npm start
 
+## Link GitHub repository
+https://github.com/vuhien238183/238183_NguyenVuHien
+## Link Docker Hub Backend
+https://hub.docker.com/r/vuhien238183/backend
+## Link Docker Hub Frontend
+https://hub.docker.com/r/vuhien238183/frontend
+## Link Render App
+https://web-238183.onrender.com
